@@ -1,0 +1,6 @@
+{
+  "name": "Dharmeswar AI Chat",
+  "description": "Universal AI Chat application with customizable models, multi-chat history, and sleek Gemini dark theme",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
